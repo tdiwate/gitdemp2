@@ -1,3 +1,3 @@
 Welcome
 
-conflict
+Merge Conflict
