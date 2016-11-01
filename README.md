@@ -1,2 +1,3 @@
-Welcome \n
+Welcome
+
 conflict
